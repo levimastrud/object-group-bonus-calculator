@@ -1,0 +1,23 @@
+#calculateBonus{
+    border-radius: 25px;
+    padding: 50px 150px;
+    transition-duration: .2s;
+    text-shadow: -3px 2px 13px #FFFFFF;
+    font-size: 45px;
+    background-image:url(https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004907/img/basic/a0004907_main.jpg?20210317142845&q=80&rw=750&rh=536});
+}
+#calculateBonus:hover{
+    color: white;
+    background-color: blue;
+    background-image: none;
+    text-shadow: -3px 2px 13px #FFFFFF;
+}
+body {
+    text-align: center;
+    font-family:o Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+#employee li {
+    list-style: none;
+}
